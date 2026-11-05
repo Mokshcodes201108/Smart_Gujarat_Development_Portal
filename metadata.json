@@ -1,0 +1,6 @@
+{
+  "name": "Smart Gujarat Development Portal",
+  "description": "Unified platform for developmental works synchronization, AI duplicate detection, budget monitoring and citizen tracking for Bharuch District, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
